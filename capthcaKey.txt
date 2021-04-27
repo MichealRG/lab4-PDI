@@ -1,0 +1,6 @@
+6LfdEaAaAAAAAOmlQg7y5ZatVHEONzJdfx3pD2BI - klucz witryny
+
+6LfdEaAaAAAAAC03M0oLKffB2_BDY-0dFvvf99k_ - tajny klucz
+
+drag&drop
+https://www.dropzonejs.com/#installation
